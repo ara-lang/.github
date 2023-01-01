@@ -6,9 +6,8 @@ Ara is a powerful, statically typed programming language that compiles directly 
 
 ## Repositories
 
-- [ara-lang/ara](https://github.com/ara-lang/ara) - A Type-Checker, Linter, and Transpiler for Ara Programming Language 🐦 **( private )**
+- [ara-lang/ara](https://github.com/ara-lang/ara) - A Type-Checker, Linter, and Transpiler for Ara Programming Language 🐦
 - [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
-- [ara-lang/reflection](https://github.com/ara-lang/reflection) - A CST-based Rust reflection API for Ara Programming Language 🔬 **( private )**
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) - A Reporting library for for Ara Programming Language 📃
 - [ara-lang/source](https://github.com/ara-lang/source) - A Source library for Ara Programming Language 🗃
 - [ara-lang/grammer](https://github.com/ara-lang/grammer) - Ara Grammer **( private )**
