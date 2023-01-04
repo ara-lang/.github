@@ -15,5 +15,13 @@ Ara is a powerful, statically typed programming language that compiles directly 
 
 ### Definitions
 
-- [ara-lang/psl-definitions](https://github.com/ara-lang/psl-definitions) - Ara definitions for the [PHP Standard Library](https://github.com/azjezz/psl) package.
-- [ara-lang/phpunit-definitions](https://github.com/ara-lang/phpunit-definitions) - Ara definitions for the [PHPUnit](https://github.com/sebastianbergmann/phpunit) testing framework.
+- [ara-lang/psl-definitions](https://github.com/ara-lang/psl-definitions) - Ara definitions for the [PHP Standard Library](https://github.com/azjezz/psl) package. ( *private* )
+- [ara-lang/phpunit-definitions](https://github.com/ara-lang/phpunit-definitions) - Ara definitions for the [PHPUnit](https://github.com/sebastianbergmann/phpunit) testing framework. ( *private* )
+
+### Web
+
+- [ara-lang/ara-lang.io](https://github.com/ara-lang/ara-lang.io) - Documentation website for Ara programming language 🕸
+
+### Other
+
+- [ara-lang/art](https://github.com/ara-lang/art) - Ara Art 🎨
