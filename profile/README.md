@@ -25,3 +25,4 @@ Ara is a powerful, statically typed programming language that compiles directly 
 ### Other
 
 - [ara-lang/art](https://github.com/ara-lang/art) - Ara Art 🎨
+- [ara-lang/.github](https://github.com/ara-lang/.github) - Ara Github Profile 🦑
